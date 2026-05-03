@@ -1,0 +1,8 @@
+Building a Machine Learning classification system that predicts the species of an Iris flower using: 
+1. Sepal length & width
+2. Petal length & width 
+
+And Comparing 3 models: 
+1. Logistic Regression
+2. KNN
+3. Naive Bayes
